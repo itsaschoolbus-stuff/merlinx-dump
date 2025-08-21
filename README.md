@@ -1,0 +1,20 @@
+## merlin-user 11 RP1A.200720.011 V12.5.4.0.RJOMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6768
+- Codename: merlinx
+- Brand: Redmi
+- Flavor: lineage_merlinx-userdebug
+- Release Version: 15
+- Kernel Version: 4.14.356-openela-rc1
+- Id: BP1A.250505.005
+- Incremental: 1752605365
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Redmi/merlin_global/merlin:11/RP1A.200720.011/V12.5.4.0.RJOMIXM:user/release-keys
+- OTA version: 
+- Branch: merlin-user-11-RP1A.200720.011-V12.5.4.0.RJOMIXM-release-keys
+- Repo: redmi_merlinx_dump

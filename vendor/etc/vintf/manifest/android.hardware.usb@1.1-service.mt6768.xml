@@ -1,0 +1,11 @@
+<!--
+    Input:
+        device/xiaomi/mt6768-common/usb/android.hardware.usb@1.1-service.mt6768.xml
+-->
+<manifest version="9.0" type="device">
+    <hal format="hidl">
+        <name>android.hardware.usb</name>
+        <transport>hwbinder</transport>
+        <fqname>@1.1::IUsb/default</fqname>
+    </hal>
+</manifest>

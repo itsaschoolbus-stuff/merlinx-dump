@@ -1,0 +1,61 @@
+####################################
+# from generate_common_build_props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=merlinx
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=Redmi Note 9
+ro.product.product.name=lineage_merlinx
+ro.product.build.date=Tue Jul 15 18:49:25 UTC 2025
+ro.product.build.date.utc=1752605365
+ro.product.build.fingerprint=Redmi/merlin_global/merlin:11/RP1A.200720.011/V12.5.4.0.RJOMIXM:user/release-keys
+ro.product.build.id=BP1A.250505.005
+ro.product.build.tags=release-keys
+ro.product.build.type=userdebug
+ro.product.build.version.incremental=1752605365
+ro.product.build.version.release=15
+ro.product.build.version.release_or_codename=15
+ro.product.build.version.sdk=35
+ro.product.build.version.sdk_minor=0
+####################################
+# from device/xiaomi/mt6768-common/configs/props/product.prop
+####################################
+# FM
+ro.fm.chip=0x6631
+ro.fm.band=1
+ro.fm.low_band=875
+ro.fm.high_band=1080
+ro.fm.seek_space=1
+ro.fm.max_scan_num=40
+ro.fm.seek_lev=4
+ro.fm.scan_sort=0
+ro.fm.short_ana_sup=1
+ro.fm.rssi_th_l2=-102
+ro.fm.fake_chans=4
+ro.fm.fake_chan_0=9210 -205
+ro.fm.fake_chan_1=9600 -152
+ro.fm.fake_chan_2=10400 -152
+ro.fm.fake_chan_3=10750 -205
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.build.16k_page.enabled=false
+ro.product.page_size=4096
+ro.build.characteristics=default
+ro.product.cpu.pagesize.max=4096
+# Value overridden by post_process_props.py. Original value: default
+ro.dalvik.vm.enable_uffd_gc=false
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+persist.wm.extensions.enabled=true
+persist.sys.fuse.passthrough.enable=true
+setupwizard.theme=glif_v4
+setupwizard.feature.day_night_mode_enabled=true
+ro.config.notification_sound=Argon.ogg
+ro.config.alarm_alert=Hassium.ogg
+ro.support_one_handed_mode=true
+ro.config.ringtone=Orion.ogg
+ro.com.android.mobiledata=false
+# end of file
